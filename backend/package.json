@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "type": "module",
-  "dependencies": {
+"dependencies": {
     "bcryptjs": "^3.0.2",
     "cloudinary": "^2.7.0",
     "cookie-parser": "^1.4.7",
